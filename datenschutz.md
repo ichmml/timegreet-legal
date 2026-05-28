@@ -47,9 +47,23 @@ CA 94104, USA
 **Übermittlung in Drittland:** Die Übermittlung erfolgt auf 
 Basis von Standardvertragsklauseln (Art. 46 Abs. 2 lit. c DSGVO).
 
-### 2.3 Benachrichtigungen
-TimeGreet plant lokale Benachrichtigungen auf Ihrem Gerät. 
-Diese Daten verlassen Ihr Gerät nicht.
+### 2.3 Benachrichtigungen & Nachrichtenversand
+
+TimeGreet plant lokale Benachrichtigungen auf Ihrem 
+Gerät. Diese Daten verlassen Ihr Gerät nicht.
+
+**Wichtiger Hinweis zum Nachrichtenversand:**  
+TimeGreet versendet keine Nachrichten automatisch. 
+Die App öffnet WhatsApp oder die SMS-App mit dem 
+vorbereiteten Text. Der Nutzer versendet die Nachricht 
+selbst durch Tippen auf "Senden" in der jeweiligen App.
+
+Es werden dabei keine Nachrichteninhalte durch 
+TimeGreet gespeichert oder übertragen. Die 
+Datenverarbeitung beim tatsächlichen Versand 
+unterliegt den Datenschutzbestimmungen von WhatsApp 
+(Meta Platforms Ireland Ltd.) bzw. dem jeweiligen 
+SMS-Anbieter.
 
 ### 2.4 Abonnement & In-App-Käufe
 
