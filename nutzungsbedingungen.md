@@ -83,23 +83,24 @@ werden nach Möglichkeit angekündigt.
 
 ---
 
-## 7. Haftungsbeschränkung
+## 7. Funktionsweise WhatsApp & SMS
 
-Der Anbieter haftet nicht für:
-- Verzögerungen oder Fehler bei der 
-  Nachrichtenübermittlung durch WhatsApp oder SMS
-- Ausfälle von Drittdiensten (Google, Anthropic)
-- Datenverluste durch Deinstallation der App
+TimeGreet öffnet WhatsApp oder die SMS-App mit dem 
+vorbereiteten Text. Der Nutzer versendet die Nachricht 
+selbst durch Tippen auf "Senden" in der jeweiligen App.
+
+Ein automatisches Versenden von Nachrichten ohne 
+Bestätigung des Nutzers findet nicht statt.
 
 ---
 
-## 8. KI-generierte Inhalte
+## 8. Haftungsbeschränkung
 
-Die KI-Vorschläge werden durch Anthropic PBC 
-generiert. Der Anbieter übernimmt keine Haftung 
-für den Inhalt der KI-Vorschläge. Der Nutzer ist 
-für das Versenden der Nachrichten selbst 
-verantwortlich.
+Der Anbieter haftet nicht für:
+- Verzögerungen beim Öffnen von WhatsApp oder SMS
+- Ausfälle von Drittdiensten (Google, Anthropic, WhatsApp)
+- Datenverluste durch Deinstallation der App
+- Inhalte die der Nutzer über WhatsApp oder SMS versendet
 
 ---
 
